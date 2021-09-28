@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Shanbhag (@iviish)
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Masters in Analytics
-- 💞️ I’m looking to collaborate on Data Analytics / Business Intellignece projects
+- 💞️ I’m looking to collaborate on Data Analytics / Business Intelligence projects
 - 📫 How to reach me -> Email : vivshanbhag@gmail.com
 
 <!---
